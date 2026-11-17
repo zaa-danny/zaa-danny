@@ -30,10 +30,10 @@ I'm Danyal — a **Full Stack Developer** with a curiosity for **AI** and a love
 
 ## 📊 My GitHub
 
-<div align="center">
+/*<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=zaa-danny&show_icons=true&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0&icon_color=a78bfa&rank_icon=github" alt="Danyal's GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaa-danny&layout=compact&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0" alt="Most used languages on GitHub" />
-</div>
+</div>*/
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zaa-danny&hide_border=true&background=0F172A&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
