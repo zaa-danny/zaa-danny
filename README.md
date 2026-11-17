@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=Danyal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Danyal — Full Stack Developer and AI Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=Danyal Khan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Danyal Khan — Full Stack Developer and AI Enthusiast" />
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+ideas+into+digital+experiences;Exploring+the+possibilities+of+AI;Always+learning.+Always+building." alt="Typing introduction" /></a>
 
